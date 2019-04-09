@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas</string>
+    <string name="editText_nama">Nama</string>
+    <string name="editText_alamat">Alamat</string>
+    <string name="editText_nohp">No.Telepon</string>
+    <string name="button_main">Registrasi</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Registrasi Atas Nama :</string>
+    <string name="button_share">SHARE</string>
+</resources>
